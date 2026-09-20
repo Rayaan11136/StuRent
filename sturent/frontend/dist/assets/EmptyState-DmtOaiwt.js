@@ -1,0 +1,1 @@
+import{j as s,L as n}from"./index-GE9jukK0.js";function m({title:r,text:t,to:e,cta:a}){return s.jsxs("div",{className:"empty",children:[s.jsx("h2",{children:r}),s.jsx("p",{className:"muted",children:t}),e&&s.jsx(n,{className:"btn btn-primary",to:e,children:a})]})}export{m as E};

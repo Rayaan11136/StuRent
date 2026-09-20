@@ -1,0 +1,16 @@
+{
+  "name": "sturent-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "local": "node local-server.js",
+    "seed": "node infrastructure/seed.mjs",
+    "export-data": "node infrastructure/export-data.mjs"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.699.0",
+    "@aws-sdk/client-dynamodb": "^3.699.0",
+    "@aws-sdk/lib-dynamodb": "^3.699.0"
+  }
+}

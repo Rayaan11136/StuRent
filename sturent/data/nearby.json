@@ -1,0 +1,986 @@
+[
+  {
+    "nearbyId": "urban-nest-food-0",
+    "propertyId": "urban-nest",
+    "type": "food",
+    "name": "Amma's Kitchen",
+    "distance": 0.7,
+    "detail": "Homemade meals • ₹80–120/meal"
+  },
+  {
+    "nearbyId": "urban-nest-food-1",
+    "propertyId": "urban-nest",
+    "type": "food",
+    "name": "Koramangala Mess",
+    "distance": 0.5,
+    "detail": "Unlimited meals • ₹90/meal"
+  },
+  {
+    "nearbyId": "urban-nest-food-2",
+    "propertyId": "urban-nest",
+    "type": "food",
+    "name": "Tiffin Express",
+    "distance": 0.9,
+    "detail": "Pickup tiffin • ₹2,400/month"
+  },
+  {
+    "nearbyId": "urban-nest-laundry-3",
+    "propertyId": "urban-nest",
+    "type": "laundry",
+    "name": "QuickWash Laundry",
+    "distance": 0.4,
+    "detail": "Wash & iron • ₹60/kg"
+  },
+  {
+    "nearbyId": "urban-nest-shopping-4",
+    "propertyId": "urban-nest",
+    "type": "shopping",
+    "name": "Student Mart",
+    "distance": 0.9,
+    "detail": "Groceries & essentials"
+  },
+  {
+    "nearbyId": "urban-nest-transport-5",
+    "propertyId": "urban-nest",
+    "type": "transport",
+    "name": "Koramangala Bus Stop",
+    "distance": 0.3,
+    "detail": "Major bus routes"
+  },
+  {
+    "nearbyId": "urban-nest-cafe-6",
+    "propertyId": "urban-nest",
+    "type": "cafe",
+    "name": "Bean Theory",
+    "distance": 0.8,
+    "detail": "Study friendly"
+  },
+  {
+    "nearbyId": "urban-nest-pharmacy-7",
+    "propertyId": "urban-nest",
+    "type": "pharmacy",
+    "name": "Apollo Pharmacy",
+    "distance": 0.6,
+    "detail": "Open late"
+  },
+  {
+    "nearbyId": "student-haven-food-0",
+    "propertyId": "student-haven",
+    "type": "food",
+    "name": "HSR Home Kitchen",
+    "distance": 0.4,
+    "detail": "North & South meals"
+  },
+  {
+    "nearbyId": "student-haven-food-1",
+    "propertyId": "student-haven",
+    "type": "food",
+    "name": "Campus Tiffin",
+    "distance": 0.8,
+    "detail": "Homemade lunch boxes"
+  },
+  {
+    "nearbyId": "student-haven-laundry-2",
+    "propertyId": "student-haven",
+    "type": "laundry",
+    "name": "Fold & Go",
+    "distance": 0.3,
+    "detail": "Pickup & drop"
+  },
+  {
+    "nearbyId": "student-haven-shopping-3",
+    "propertyId": "student-haven",
+    "type": "shopping",
+    "name": "HSR Club Mart",
+    "distance": 0.6,
+    "detail": "Groceries & stationery"
+  },
+  {
+    "nearbyId": "student-haven-transport-4",
+    "propertyId": "student-haven",
+    "type": "transport",
+    "name": "HSR BDA Complex Stop",
+    "distance": 0.5,
+    "detail": "BMTC routes"
+  },
+  {
+    "nearbyId": "student-haven-cafe-5",
+    "propertyId": "student-haven",
+    "type": "cafe",
+    "name": "Third Wave Coffee",
+    "distance": 1,
+    "detail": "Laptops welcome"
+  },
+  {
+    "nearbyId": "student-haven-pharmacy-6",
+    "propertyId": "student-haven",
+    "type": "pharmacy",
+    "name": "MedPlus HSR",
+    "distance": 0.4,
+    "detail": "24×7"
+  },
+  {
+    "nearbyId": "campus-corner-food-0",
+    "propertyId": "campus-corner",
+    "type": "food",
+    "name": "BTM Mess House",
+    "distance": 0.2,
+    "detail": "Veg thali • ₹70"
+  },
+  {
+    "nearbyId": "campus-corner-food-1",
+    "propertyId": "campus-corner",
+    "type": "food",
+    "name": "Amma Tiffins",
+    "distance": 0.6,
+    "detail": "Home-cooked dinner"
+  },
+  {
+    "nearbyId": "campus-corner-laundry-2",
+    "propertyId": "campus-corner",
+    "type": "laundry",
+    "name": "Steam Iron BTM",
+    "distance": 0.3,
+    "detail": "Ironing • ₹12/pc"
+  },
+  {
+    "nearbyId": "campus-corner-shopping-3",
+    "propertyId": "campus-corner",
+    "type": "shopping",
+    "name": "Udupi Store",
+    "distance": 0.5,
+    "detail": "Daily groceries"
+  },
+  {
+    "nearbyId": "campus-corner-transport-4",
+    "propertyId": "campus-corner",
+    "type": "transport",
+    "name": "Silk Board feeder stop",
+    "distance": 0.9,
+    "detail": "Connects to metro feeder"
+  },
+  {
+    "nearbyId": "campus-corner-cafe-5",
+    "propertyId": "campus-corner",
+    "type": "cafe",
+    "name": "Notebook Cafe",
+    "distance": 0.7,
+    "detail": "Quiet afternoons"
+  },
+  {
+    "nearbyId": "campus-corner-pharmacy-6",
+    "propertyId": "campus-corner",
+    "type": "pharmacy",
+    "name": "Wellness Forever",
+    "distance": 0.4,
+    "detail": "Pharmacy & first aid"
+  },
+  {
+    "nearbyId": "the-student-house-food-0",
+    "propertyId": "the-student-house",
+    "type": "food",
+    "name": "Indiranagar Home Meals",
+    "distance": 0.5,
+    "detail": "₹110/meal"
+  },
+  {
+    "nearbyId": "the-student-house-food-1",
+    "propertyId": "the-student-house",
+    "type": "food",
+    "name": "Anand Bhavan",
+    "distance": 0.8,
+    "detail": "South Indian • student lunch"
+  },
+  {
+    "nearbyId": "the-student-house-laundry-2",
+    "propertyId": "the-student-house",
+    "type": "laundry",
+    "name": "WashLab",
+    "distance": 0.4,
+    "detail": "Express 24h"
+  },
+  {
+    "nearbyId": "the-student-house-shopping-3",
+    "propertyId": "the-student-house",
+    "type": "shopping",
+    "name": "100 Feet Road mart",
+    "distance": 0.6,
+    "detail": "Essentials & stationery"
+  },
+  {
+    "nearbyId": "the-student-house-transport-4",
+    "propertyId": "the-student-house",
+    "type": "transport",
+    "name": "Indiranagar Metro",
+    "distance": 0.7,
+    "detail": "Purple Line"
+  },
+  {
+    "nearbyId": "the-student-house-cafe-5",
+    "propertyId": "the-student-house",
+    "type": "cafe",
+    "name": "Chai Point Study",
+    "distance": 0.3,
+    "detail": "Late hours"
+  },
+  {
+    "nearbyId": "the-student-house-cafe-6",
+    "propertyId": "the-student-house",
+    "type": "cafe",
+    "name": "Sundown Library Cafe",
+    "distance": 0.9,
+    "detail": "Quiet desks"
+  },
+  {
+    "nearbyId": "the-student-house-pharmacy-7",
+    "propertyId": "the-student-house",
+    "type": "pharmacy",
+    "name": "Himalaya Wellness",
+    "distance": 0.5,
+    "detail": "Pharmacy"
+  },
+  {
+    "nearbyId": "scholars-den-food-0",
+    "propertyId": "scholars-den",
+    "type": "food",
+    "name": "Jayanagar Tiffin Service",
+    "distance": 0.6,
+    "detail": "Homemade • veg"
+  },
+  {
+    "nearbyId": "scholars-den-laundry-1",
+    "propertyId": "scholars-den",
+    "type": "laundry",
+    "name": "Neighbourhood Wash",
+    "distance": 0.2,
+    "detail": "Same-day ironing"
+  },
+  {
+    "nearbyId": "scholars-den-shopping-2",
+    "propertyId": "scholars-den",
+    "type": "shopping",
+    "name": "4th Block market",
+    "distance": 0.8,
+    "detail": "Affordable shopping"
+  },
+  {
+    "nearbyId": "scholars-den-transport-3",
+    "propertyId": "scholars-den",
+    "type": "transport",
+    "name": "Jayanagar Metro",
+    "distance": 0.9,
+    "detail": "Green Line"
+  },
+  {
+    "nearbyId": "scholars-den-cafe-4",
+    "propertyId": "scholars-den",
+    "type": "cafe",
+    "name": "Reading Room Cafe",
+    "distance": 0.4,
+    "detail": "Silent study"
+  },
+  {
+    "nearbyId": "scholars-den-pharmacy-5",
+    "propertyId": "scholars-den",
+    "type": "pharmacy",
+    "name": "Jan Aushadhi",
+    "distance": 0.5,
+    "detail": "Generic medicines"
+  },
+  {
+    "nearbyId": "whitefield-heights-food-0",
+    "propertyId": "whitefield-heights",
+    "type": "food",
+    "name": "ITPL Mess",
+    "distance": 0.5,
+    "detail": "Unlimited veg"
+  },
+  {
+    "nearbyId": "whitefield-heights-laundry-1",
+    "propertyId": "whitefield-heights",
+    "type": "laundry",
+    "name": "Whitefield Dryclean",
+    "distance": 0.4,
+    "detail": "Pickup from lobby"
+  },
+  {
+    "nearbyId": "whitefield-heights-shopping-2",
+    "propertyId": "whitefield-heights",
+    "type": "shopping",
+    "name": "Phoenix Marketcity",
+    "distance": 1.8,
+    "detail": "Malls & groceries"
+  },
+  {
+    "nearbyId": "whitefield-heights-transport-3",
+    "propertyId": "whitefield-heights",
+    "type": "transport",
+    "name": "Whitefield TTMC",
+    "distance": 1.1,
+    "detail": "Buses to city"
+  },
+  {
+    "nearbyId": "whitefield-heights-cafe-4",
+    "propertyId": "whitefield-heights",
+    "type": "cafe",
+    "name": "Starbucks Forum",
+    "distance": 1.6,
+    "detail": "Group study"
+  },
+  {
+    "nearbyId": "whitefield-heights-pharmacy-5",
+    "propertyId": "whitefield-heights",
+    "type": "pharmacy",
+    "name": "Manipal Pharmacy",
+    "distance": 0.7,
+    "detail": "Clinic attached"
+  },
+  {
+    "nearbyId": "quiet-quarters-food-0",
+    "propertyId": "quiet-quarters",
+    "type": "food",
+    "name": "Malleshwaram Mess",
+    "distance": 0.3,
+    "detail": "Filter coffee + meals"
+  },
+  {
+    "nearbyId": "quiet-quarters-food-1",
+    "propertyId": "quiet-quarters",
+    "type": "food",
+    "name": "Akka's Kitchen",
+    "distance": 0.7,
+    "detail": "Home-cooked tiffin"
+  },
+  {
+    "nearbyId": "quiet-quarters-laundry-2",
+    "propertyId": "quiet-quarters",
+    "type": "laundry",
+    "name": "Classic Ironing",
+    "distance": 0.2,
+    "detail": "₹10/pc"
+  },
+  {
+    "nearbyId": "quiet-quarters-shopping-3",
+    "propertyId": "quiet-quarters",
+    "type": "shopping",
+    "name": "Sampige Road shops",
+    "distance": 0.5,
+    "detail": "Stationery & snacks"
+  },
+  {
+    "nearbyId": "quiet-quarters-transport-4",
+    "propertyId": "quiet-quarters",
+    "type": "transport",
+    "name": "Mantri Square Metro",
+    "distance": 0.8,
+    "detail": "Green Line"
+  },
+  {
+    "nearbyId": "quiet-quarters-cafe-5",
+    "propertyId": "quiet-quarters",
+    "type": "cafe",
+    "name": "Central Library cafe",
+    "distance": 1,
+    "detail": "Very quiet"
+  },
+  {
+    "nearbyId": "quiet-quarters-pharmacy-6",
+    "propertyId": "quiet-quarters",
+    "type": "pharmacy",
+    "name": "Malleshwaram Medicals",
+    "distance": 0.3,
+    "detail": "Neighbourhood pharmacy"
+  },
+  {
+    "nearbyId": "ecity-hub-food-0",
+    "propertyId": "ecity-hub",
+    "type": "food",
+    "name": "E-City Tiffin",
+    "distance": 0.4,
+    "detail": "Included mess + extras"
+  },
+  {
+    "nearbyId": "ecity-hub-laundry-1",
+    "propertyId": "ecity-hub",
+    "type": "laundry",
+    "name": "Campus Wash E-City",
+    "distance": 0.3,
+    "detail": "₹50/kg"
+  },
+  {
+    "nearbyId": "ecity-hub-shopping-2",
+    "propertyId": "ecity-hub",
+    "type": "shopping",
+    "name": "E-City Value Mart",
+    "distance": 0.9,
+    "detail": "Groceries"
+  },
+  {
+    "nearbyId": "ecity-hub-transport-3",
+    "propertyId": "ecity-hub",
+    "type": "transport",
+    "name": "Wipro Gate bus stop",
+    "distance": 0.6,
+    "detail": "BMTC to Silk Board"
+  },
+  {
+    "nearbyId": "ecity-hub-cafe-4",
+    "propertyId": "ecity-hub",
+    "type": "cafe",
+    "name": "Infopark Cafe",
+    "distance": 1.2,
+    "detail": "Wi-Fi, noisy evenings"
+  },
+  {
+    "nearbyId": "ecity-hub-pharmacy-5",
+    "propertyId": "ecity-hub",
+    "type": "pharmacy",
+    "name": "Aster Pharmacy",
+    "distance": 0.8,
+    "detail": "Near clinic"
+  },
+  {
+    "nearbyId": "study-loft-food-0",
+    "propertyId": "study-loft",
+    "type": "food",
+    "name": "Marathahalli Home Food",
+    "distance": 0.5,
+    "detail": "₹90–130/meal"
+  },
+  {
+    "nearbyId": "study-loft-food-1",
+    "propertyId": "study-loft",
+    "type": "food",
+    "name": "Andhra Mess",
+    "distance": 0.8,
+    "detail": "Spicy meals"
+  },
+  {
+    "nearbyId": "study-loft-laundry-2",
+    "propertyId": "study-loft",
+    "type": "laundry",
+    "name": "SpinCycle",
+    "distance": 0.4,
+    "detail": "Wash & fold"
+  },
+  {
+    "nearbyId": "study-loft-shopping-3",
+    "propertyId": "study-loft",
+    "type": "shopping",
+    "name": "Kalamandir stores",
+    "distance": 0.7,
+    "detail": "Essentials"
+  },
+  {
+    "nearbyId": "study-loft-transport-4",
+    "propertyId": "study-loft",
+    "type": "transport",
+    "name": "Marathahalli Bridge stop",
+    "distance": 0.6,
+    "detail": "Major corridor"
+  },
+  {
+    "nearbyId": "study-loft-cafe-5",
+    "propertyId": "study-loft",
+    "type": "cafe",
+    "name": "Loft Notes",
+    "distance": 0.3,
+    "detail": "Study desks"
+  },
+  {
+    "nearbyId": "study-loft-pharmacy-6",
+    "propertyId": "study-loft",
+    "type": "pharmacy",
+    "name": "Medlife",
+    "distance": 0.5,
+    "detail": "Pharmacy"
+  },
+  {
+    "nearbyId": "green-stay-food-0",
+    "propertyId": "green-stay",
+    "type": "food",
+    "name": "Banshankari Tiffins",
+    "distance": 0.4,
+    "detail": "Idli-dosa mornings"
+  },
+  {
+    "nearbyId": "green-stay-laundry-1",
+    "propertyId": "green-stay",
+    "type": "laundry",
+    "name": "GreenWash",
+    "distance": 0.3,
+    "detail": "Eco wash"
+  },
+  {
+    "nearbyId": "green-stay-shopping-2",
+    "propertyId": "green-stay",
+    "type": "shopping",
+    "name": "South End Circle stores",
+    "distance": 1.1,
+    "detail": "Student shopping"
+  },
+  {
+    "nearbyId": "green-stay-transport-3",
+    "propertyId": "green-stay",
+    "type": "transport",
+    "name": "Banashankari Bus Station",
+    "distance": 0.7,
+    "detail": "TTMC"
+  },
+  {
+    "nearbyId": "green-stay-cafe-4",
+    "propertyId": "green-stay",
+    "type": "cafe",
+    "name": "Park View Cafe",
+    "distance": 0.8,
+    "detail": "Outdoor seating"
+  },
+  {
+    "nearbyId": "green-stay-pharmacy-5",
+    "propertyId": "green-stay",
+    "type": "pharmacy",
+    "name": "Sagar Pharmacy",
+    "distance": 0.4,
+    "detail": "Pharmacy"
+  },
+  {
+    "nearbyId": "metro-nest-food-0",
+    "propertyId": "metro-nest",
+    "type": "food",
+    "name": "Rajaji Home Kitchen",
+    "distance": 0.3,
+    "detail": "₹85/meal"
+  },
+  {
+    "nearbyId": "metro-nest-food-1",
+    "propertyId": "metro-nest",
+    "type": "food",
+    "name": "Darshini",
+    "distance": 0.4,
+    "detail": "Quick breakfast"
+  },
+  {
+    "nearbyId": "metro-nest-food-2",
+    "propertyId": "metro-nest",
+    "type": "food",
+    "name": "Tiffin Route",
+    "distance": 0.9,
+    "detail": "Subscription meals"
+  },
+  {
+    "nearbyId": "metro-nest-laundry-3",
+    "propertyId": "metro-nest",
+    "type": "laundry",
+    "name": "Metro Wash",
+    "distance": 0.2,
+    "detail": "Same day"
+  },
+  {
+    "nearbyId": "metro-nest-shopping-4",
+    "propertyId": "metro-nest",
+    "type": "shopping",
+    "name": "Mariappanpalya stores",
+    "distance": 0.6,
+    "detail": "Groceries"
+  },
+  {
+    "nearbyId": "metro-nest-transport-5",
+    "propertyId": "metro-nest",
+    "type": "transport",
+    "name": "Rajajinagar Metro",
+    "distance": 0.25,
+    "detail": "Green Line"
+  },
+  {
+    "nearbyId": "metro-nest-cafe-6",
+    "propertyId": "metro-nest",
+    "type": "cafe",
+    "name": "Platform Cafe",
+    "distance": 0.4,
+    "detail": "Laptop friendly"
+  },
+  {
+    "nearbyId": "metro-nest-pharmacy-7",
+    "propertyId": "metro-nest",
+    "type": "pharmacy",
+    "name": "Fortis Pharmacy",
+    "distance": 0.7,
+    "detail": "Hospital pharmacy"
+  },
+  {
+    "nearbyId": "budget-nest-food-0",
+    "propertyId": "budget-nest",
+    "type": "food",
+    "name": "Kengeri Mess",
+    "distance": 0.4,
+    "detail": "₹60/meal"
+  },
+  {
+    "nearbyId": "budget-nest-laundry-1",
+    "propertyId": "budget-nest",
+    "type": "laundry",
+    "name": "Local dhobi",
+    "distance": 0.3,
+    "detail": "Ironing"
+  },
+  {
+    "nearbyId": "budget-nest-shopping-2",
+    "propertyId": "budget-nest",
+    "type": "shopping",
+    "name": "Kengeri satellite market",
+    "distance": 0.8,
+    "detail": "Essentials"
+  },
+  {
+    "nearbyId": "budget-nest-transport-3",
+    "propertyId": "budget-nest",
+    "type": "transport",
+    "name": "Kengeri Bus Terminal",
+    "distance": 0.6,
+    "detail": "West-side routes"
+  },
+  {
+    "nearbyId": "budget-nest-cafe-4",
+    "propertyId": "budget-nest",
+    "type": "cafe",
+    "name": "Highway Tea Point",
+    "distance": 1.1,
+    "detail": "Not a study cafe"
+  },
+  {
+    "nearbyId": "budget-nest-pharmacy-5",
+    "propertyId": "budget-nest",
+    "type": "pharmacy",
+    "name": "Kengeri Medicals",
+    "distance": 0.5,
+    "detail": "Pharmacy"
+  },
+  {
+    "nearbyId": "cozy-corner-food-0",
+    "propertyId": "cozy-corner",
+    "type": "food",
+    "name": "Yelahanka Home Meals",
+    "distance": 0.6,
+    "detail": "North Indian tiffin"
+  },
+  {
+    "nearbyId": "cozy-corner-laundry-1",
+    "propertyId": "cozy-corner",
+    "type": "laundry",
+    "name": "New Town Wash",
+    "distance": 0.4,
+    "detail": "₹55/kg"
+  },
+  {
+    "nearbyId": "cozy-corner-shopping-2",
+    "propertyId": "cozy-corner",
+    "type": "shopping",
+    "name": "New Town market",
+    "distance": 0.7,
+    "detail": "Groceries"
+  },
+  {
+    "nearbyId": "cozy-corner-transport-3",
+    "propertyId": "cozy-corner",
+    "type": "transport",
+    "name": "Yelahanka Railway / bus",
+    "distance": 1,
+    "detail": "North connectivity"
+  },
+  {
+    "nearbyId": "cozy-corner-cafe-4",
+    "propertyId": "cozy-corner",
+    "type": "cafe",
+    "name": "Airport Road Cafe",
+    "distance": 1.4,
+    "detail": "Weekend busy"
+  },
+  {
+    "nearbyId": "cozy-corner-pharmacy-5",
+    "propertyId": "cozy-corner",
+    "type": "pharmacy",
+    "name": "Columbia Asia Pharmacy",
+    "distance": 1.2,
+    "detail": "Hospital pharmacy"
+  },
+  {
+    "nearbyId": "focus-home-food-0",
+    "propertyId": "focus-home",
+    "type": "food",
+    "name": "Hebbal Tiffins",
+    "distance": 0.5,
+    "detail": "₹95/meal"
+  },
+  {
+    "nearbyId": "focus-home-laundry-1",
+    "propertyId": "focus-home",
+    "type": "laundry",
+    "name": "Lakeview Laundry",
+    "distance": 0.4,
+    "detail": "Pickup"
+  },
+  {
+    "nearbyId": "focus-home-shopping-2",
+    "propertyId": "focus-home",
+    "type": "shopping",
+    "name": "Hebbal Kemp Fort shops",
+    "distance": 1,
+    "detail": "Essentials"
+  },
+  {
+    "nearbyId": "focus-home-transport-3",
+    "propertyId": "focus-home",
+    "type": "transport",
+    "name": "Hebbal Flyover stop",
+    "distance": 0.5,
+    "detail": "Many BMTC routes"
+  },
+  {
+    "nearbyId": "focus-home-cafe-4",
+    "propertyId": "focus-home",
+    "type": "cafe",
+    "name": "Manyata study cafe",
+    "distance": 1.3,
+    "detail": "Corporate-heavy"
+  },
+  {
+    "nearbyId": "focus-home-pharmacy-5",
+    "propertyId": "focus-home",
+    "type": "pharmacy",
+    "name": "Hebbal Pharmacy",
+    "distance": 0.3,
+    "detail": "Open late"
+  },
+  {
+    "nearbyId": "social-square-food-0",
+    "propertyId": "social-square",
+    "type": "food",
+    "name": "5th Block Mess",
+    "distance": 0.2,
+    "detail": "Late dinners"
+  },
+  {
+    "nearbyId": "social-square-food-1",
+    "propertyId": "social-square",
+    "type": "food",
+    "name": "Mama's Tiffin",
+    "distance": 0.4,
+    "detail": "Homemade"
+  },
+  {
+    "nearbyId": "social-square-food-2",
+    "propertyId": "social-square",
+    "type": "food",
+    "name": "Biryani Bowl",
+    "distance": 0.5,
+    "detail": "Student portions"
+  },
+  {
+    "nearbyId": "social-square-food-3",
+    "propertyId": "social-square",
+    "type": "food",
+    "name": "Salad Farm",
+    "distance": 0.6,
+    "detail": "Lighter meals"
+  },
+  {
+    "nearbyId": "social-square-laundry-4",
+    "propertyId": "social-square",
+    "type": "laundry",
+    "name": "Urban Wash",
+    "distance": 0.3,
+    "detail": "App pickup"
+  },
+  {
+    "nearbyId": "social-square-shopping-5",
+    "propertyId": "social-square",
+    "type": "shopping",
+    "name": "Forum Mall / street shops",
+    "distance": 0.8,
+    "detail": "Shopping"
+  },
+  {
+    "nearbyId": "social-square-transport-6",
+    "propertyId": "social-square",
+    "type": "transport",
+    "name": "Jyoti Nivas stop",
+    "distance": 0.4,
+    "detail": "Frequent buses"
+  },
+  {
+    "nearbyId": "social-square-cafe-7",
+    "propertyId": "social-square",
+    "type": "cafe",
+    "name": "The Hole in the Wall",
+    "distance": 0.5,
+    "detail": "Busy, social"
+  },
+  {
+    "nearbyId": "social-square-cafe-8",
+    "propertyId": "social-square",
+    "type": "cafe",
+    "name": "Matteo Coffea",
+    "distance": 0.7,
+    "detail": "Laptop tables"
+  },
+  {
+    "nearbyId": "social-square-pharmacy-9",
+    "propertyId": "social-square",
+    "type": "pharmacy",
+    "name": "Sagar Apollo Pharmacy",
+    "distance": 0.4,
+    "detail": "Pharmacy"
+  },
+  {
+    "nearbyId": "lakeside-pg-food-0",
+    "propertyId": "lakeside-pg",
+    "type": "food",
+    "name": "Bellandur Home Kitchen",
+    "distance": 0.5,
+    "detail": "₹100/meal"
+  },
+  {
+    "nearbyId": "lakeside-pg-laundry-1",
+    "propertyId": "lakeside-pg",
+    "type": "laundry",
+    "name": "Lake Wash",
+    "distance": 0.4,
+    "detail": "₹65/kg"
+  },
+  {
+    "nearbyId": "lakeside-pg-shopping-2",
+    "propertyId": "lakeside-pg",
+    "type": "shopping",
+    "name": "Central Mall groceries",
+    "distance": 1.2,
+    "detail": "Supermarket"
+  },
+  {
+    "nearbyId": "lakeside-pg-transport-3",
+    "propertyId": "lakeside-pg",
+    "type": "transport",
+    "name": "Bellandur bus stop",
+    "distance": 0.6,
+    "detail": "ORR corridor"
+  },
+  {
+    "nearbyId": "lakeside-pg-cafe-4",
+    "propertyId": "lakeside-pg",
+    "type": "cafe",
+    "name": "Soul Brew",
+    "distance": 0.9,
+    "detail": "Study corners"
+  },
+  {
+    "nearbyId": "lakeside-pg-pharmacy-5",
+    "propertyId": "lakeside-pg",
+    "type": "pharmacy",
+    "name": "Lakeview Medicals",
+    "distance": 0.5,
+    "detail": "Pharmacy"
+  },
+  {
+    "nearbyId": "triple-share-banaswadi-food-0",
+    "propertyId": "triple-share-banaswadi",
+    "type": "food",
+    "name": "Banaswadi Mess",
+    "distance": 0.3,
+    "detail": "₹75/meal"
+  },
+  {
+    "nearbyId": "triple-share-banaswadi-laundry-1",
+    "propertyId": "triple-share-banaswadi",
+    "type": "laundry",
+    "name": "East Wash",
+    "distance": 0.2,
+    "detail": "Ironing + wash"
+  },
+  {
+    "nearbyId": "triple-share-banaswadi-shopping-2",
+    "propertyId": "triple-share-banaswadi",
+    "type": "shopping",
+    "name": "HRBR shops",
+    "distance": 1,
+    "detail": "Student shopping"
+  },
+  {
+    "nearbyId": "triple-share-banaswadi-transport-3",
+    "propertyId": "triple-share-banaswadi",
+    "type": "transport",
+    "name": "Banaswadi Railway Station",
+    "distance": 0.8,
+    "detail": "Local trains / buses"
+  },
+  {
+    "nearbyId": "triple-share-banaswadi-cafe-4",
+    "propertyId": "triple-share-banaswadi",
+    "type": "cafe",
+    "name": "HRBR Cafe Lane",
+    "distance": 1.1,
+    "detail": "Group hangouts"
+  },
+  {
+    "nearbyId": "triple-share-banaswadi-pharmacy-5",
+    "propertyId": "triple-share-banaswadi",
+    "type": "pharmacy",
+    "name": "Cloudnine Pharmacy",
+    "distance": 0.9,
+    "detail": "Pharmacy"
+  },
+  {
+    "nearbyId": "power-backup-pg-food-0",
+    "propertyId": "power-backup-pg",
+    "type": "food",
+    "name": "JP Nagar Tiffin",
+    "distance": 0.4,
+    "detail": "Homemade"
+  },
+  {
+    "nearbyId": "power-backup-pg-food-1",
+    "propertyId": "power-backup-pg",
+    "type": "food",
+    "name": "Sagar Fast Food",
+    "distance": 0.6,
+    "detail": "Affordable plates"
+  },
+  {
+    "nearbyId": "power-backup-pg-laundry-2",
+    "propertyId": "power-backup-pg",
+    "type": "laundry",
+    "name": "JP Wash House",
+    "distance": 0.3,
+    "detail": "Express"
+  },
+  {
+    "nearbyId": "power-backup-pg-shopping-3",
+    "propertyId": "power-backup-pg",
+    "type": "shopping",
+    "name": "JP Nagar 5th Phase stores",
+    "distance": 0.7,
+    "detail": "Groceries"
+  },
+  {
+    "nearbyId": "power-backup-pg-transport-4",
+    "propertyId": "power-backup-pg",
+    "type": "transport",
+    "name": "JP Nagar Metro",
+    "distance": 0.9,
+    "detail": "Green Line"
+  },
+  {
+    "nearbyId": "power-backup-pg-cafe-5",
+    "propertyId": "power-backup-pg",
+    "type": "cafe",
+    "name": "Desk & Brew",
+    "distance": 0.5,
+    "detail": "Study friendly"
+  },
+  {
+    "nearbyId": "power-backup-pg-pharmacy-6",
+    "propertyId": "power-backup-pg",
+    "type": "pharmacy",
+    "name": "Tata 1mg store",
+    "distance": 0.6,
+    "detail": "Pharmacy"
+  }
+]
